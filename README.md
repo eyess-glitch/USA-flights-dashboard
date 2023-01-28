@@ -1,5 +1,5 @@
 # USA-flights-dashboard
-## Authors : Folino Filippo Andrea, Sullazzo Teodoro
+## Authors : Folino Filippo Andrea, Sullazzo Teodoro (@teo-sl)
 
 This repository contains the source code of a project done for the university course "Big Data Models and Techniques". The work is divided into two components:
 
